@@ -218,5 +218,54 @@ Jika mengalami kendala, cek solusi berikut:
    * Cek kembali kredensial di `config.php`.
    * Pastikan MySQL server sedang berjalan.
 
-##  Contoh Output
+##  Contoh Output 
+
+##  **Admin**
+-------------------------------------------------------------------------------------------------------------------------------------
+<img width="1366" height="768" alt="Screenshot from 2026-01-09 02-19-36" src="https://github.com/user-attachments/assets/45523025-6e41-419a-9507-8532df4b6ce4" />
+<img width="1366" height="768" alt="Screenshot from 2026-01-09 02-19-42" src="https://github.com/user-attachments/assets/35608719-0b07-4dfd-879b-d33a17b38c94" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be47711c-e0a8-445d-9750-d824e128c753" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4631cf34-5cae-4843-920f-70b2ac876ffa" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4c9cb32-9885-439f-ae4e-f4bd345429cd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/91fad518-9d1e-4647-b65f-7de324d2d9b2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d09ddb0-6d9c-466c-ab63-1ef5f2c3bd55" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/008f350f-84bc-4f78-b756-b2e47db4f28c" />
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+##  **User**
+-------------------------------------------------------------------------------------------------------------------------------------
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c3fa1a67-b251-447b-a5f2-be9682ba8991" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0e16cae2-3386-4e67-8c67-054e7adad000" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aeea7244-fad4-42ee-85f5-1251d3aede61" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f974e7c5-6a51-4778-a2ce-b17432ddf010" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e382537-4e39-46e2-a709-a5fc886147de" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c2e96e25-f582-4f36-b8a7-b0eb59843a46" />
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
